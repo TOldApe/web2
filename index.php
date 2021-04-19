@@ -49,8 +49,8 @@
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="index.php" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logoalpha.png" alt="JRA Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-dark180.png" alt="JRA Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logoalpha_180.png" alt="JRA Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo_180.png" alt="JRA Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -78,8 +78,8 @@
                     </li>
                     <li class="s-header__action-item">
                         <a class="s-header__action-link" href="https://www.jralves.com.br">
-                            <i class="g-padding-r-5--xs g-color--white ti-twitter"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Twitter</span>
+                            <img class="g-padding-r-5--xs g-color--white" src="img/whatsapp_symbol_white.png" alt="Whatsapp">
+                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Whatsapp</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
@@ -101,7 +101,7 @@
                 <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/jra03.jpg');">
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
-                            <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">JULIANA RIBEIRO ALVES<br>ADVOCACIA<br></h1>
+                            <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white">JULIANA RIBEIRO ALVES<br>ADVOCACIA<br></h1>
                         </div>
                         <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                              <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -112,7 +112,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white"><br>EM<br>CONSTRUÇÃO<br></h1>
+                                <h1 class="g-font-size-35--xs g-font-size-24--sm g-font-size-42--md g-color--white"><br>ASSESSORIA JURIDICA<br>NO PROCESSO DE<br>INTERNACIONALIZAÇÃO<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -124,7 +124,31 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white"><br>EM<br>CONSTRUÇÃO<br></h1>
+                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
+                            </div>
+                            <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/jra03.jpg');">
+                    <div class="container g-text-center--xs g-ver-center--xs">
+                        <div class="g-margin-b-30--xs">
+                            <div class="g-margin-b-30--xs">
+                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
+                            </div>
+                            <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/jra03.jpg');">
+                    <div class="container g-text-center--xs g-ver-center--xs">
+                        <div class="g-margin-b-30--xs">
+                            <div class="g-margin-b-30--xs">
+                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -159,6 +183,7 @@
                 <h2 class="g-font-size-32--xs g-font-size-36--md">CONHEÇA AS VANTAGENS DOS NOSSOS SERVIÇOS<br></h2>
             </div>
             <div class="row g-margin-b-60--xs g-margin-b-70--md">
+
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
@@ -167,8 +192,8 @@
                             </div>
                         </div>
                         <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="align=center g-font-size-18--xs" align="justify">Contratos</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Nossos contratos são especiais, pois redigidos com rigor técnico e máxima atenção para compreender as necessidades de nossos clientes. Isto resulta em maior compreensão de seu conteúdo e menor quantidade de litígios.</p>
+                                <h3 class="align=center g-font-size-18--xs" align="justify">Direito Aduaneiro</h3>
+                                <p class="g-margin-b-0--xs" align="justify">texto a ser inserido.</p>
                         </div>
                     </div>
                 </div>
@@ -180,8 +205,8 @@
                             </div>
                         </div>
                         <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="g-font-size-18--xs">Licitações e Infraestrutura</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Auxiliamos nossos clientes a partir da elaboração da pasta de documentos a ser fornecida aos órgãos públicos, seguindo então para impugnações, análises de editais, recursos administrativos, procedimentos junto aos tribunais de contas, pedidos de reajuste e recomposição.</p>
+                                <h3 class="g-font-size-18--xs">Direito Internacional</h3>
+                                <p class="g-margin-b-0--xs" align="justify">Texto a ser inserido.</p>
                         </div>
                     </div>
                 </div>
@@ -193,54 +218,13 @@
                             </div>
                         </div>
                         <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="g-font-size-18--xs">Proteção de dados pessoais</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Atuamos no compliance da LGPD, dando especial enfoque ao treinamento de colaboradores e na avaliação de riscos no tratamento de dados pessoais.</p>
+                                <h3 class="g-font-size-18--xs">Compliance</h3>
+                                <p class="g-margin-b-0--xs" align="justify">Texto a ser inserido.</p>
                         </div>
                     </div>
                 </div>
+
             </div>
-            <div class="row g-margin-b-60--xs g-margin-b-70--md">
-                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                    <div class="clearfix">
-                        <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
-                                <i class="g-font-size-28--xs g-color--primary ti-star"></i>
-                            </div>
-                        </div>
-                        <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="align=center g-font-size-18--xs" align="justify">Contratos</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Nossos contratos são especiais, pois redigidos com rigor técnico e máxima atenção para compreender as necessidades de nossos clientes. Isto resulta em maior compreensão de seu conteúdo e menor quantidade de litígios.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                    <div class="clearfix">
-                        <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s"> 
-                                <i class="g-font-size-28--xs g-color--primary ti-star"></i>
-                            </div>
-                        </div>
-                        <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="g-font-size-18--xs">Licitações e Infraestrutura</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Auxiliamos nossos clientes a partir da elaboração da pasta de documentos a ser fornecida aos órgãos públicos, seguindo então para impugnações, análises de editais, recursos administrativos, procedimentos junto aos tribunais de contas, pedidos de reajuste e recomposição.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="clearfix">
-                        <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
-                                <i class="g-font-size-28--xs g-color--primary ti-star"></i>
-                            </div>
-                        </div>
-                        <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="g-font-size-18--xs">Proteção de dados pessoais</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Atuamos no compliance da LGPD, dando especial enfoque ao treinamento de colaboradores e na avaliação de riscos no tratamento de dados pessoais.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> 
 
         </div> 
         <!-- End Features -->
@@ -405,7 +389,7 @@
 
 
         <!-- Testimonials -->
-        <div class="js__parallax-window" style="background: url(img/1920x1080/04.jpg) 50% 0 no-repeat fixed;">
+        <div class="js__parallax-window" style="background: url(img/jra05.jpg) 50% 0 no-repeat fixed;">
             <div class="container g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
                 <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-50--xs"></p>
                 <div class="s-swiper js__swiper-testimonials"> -->
@@ -490,101 +474,124 @@
         </div>-->
         <!-- End Clients -->
 
-        <!-- News 
+        <!-- News -->
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="g-text-center--xs g-margin-b-80--xs">
                 <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Blog</p>
-                <h2 class="g-font-size-32--xs g-font-size-36--md">Latest News</h2>
+                <h2 class="g-font-size-32--xs g-font-size-36--md">Ultimos Artigos</h2>
             </div>
             <div class="row">
-                <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">-->
-                    <!-- News 
+                <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
+                    <!-- News -->
                     <article>
-                        <img class="img-responsive" src="img/970x970/01.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Create Something Great.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Segmento do Artigo</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Titulo</a></h3>
+                            <p>Pequena parte inicial do artigo</p>
                         </div>
-                    </article>-->
-                    <!-- End News 
+                    </article>
+                    <!-- End News -->
                 </div>
-                <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">-->
-                    <!-- News 
+                <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
+                    <!-- News -->
                     <article>
-                        <img class="img-responsive" src="img/970x970/02.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Jacks of All. Experts in All.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Segmento do Artigo</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Titulo</a></h3>
+                            <p>Pequena parte inicial do artigo</p>
                         </div>
-                    </article>-->
-                    <!-- End News 
+                    </article>
+                    <!-- End News -->
                 </div>
-                <div class="col-sm-4">-->
-                    <!-- News 
+                <div class="col-sm-4">
+                    <!-- News -->
                     <article>
-                        <img class="img-responsive" src="img/970x970/03.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Finding your Perfect Place.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Segmento do Artigo</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Titulo</a></h3>
+                            <p>Pequena parte inicial do artigo</p>
                         </div>
-                    </article>-->
-                    <!-- End News 
+                    </article>
+                    <!-- End News -->
                 </div>
             </div>
-        </div>-->
+        </div>
         <!-- End News -->
 
-        <!-- Counter 
-        <div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">
+        <!-- Counter  -->
+        <div class="js__parallax-window" style="background: url(img/jra06.jpg) 50% 0 no-repeat fixed;">
             <div class="container g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
                     <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
                         <div class="g-text-center--xs">
                             <div class="g-margin-b-10--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">6</figure>
-                                <span class="g-font-size-40--xs g-color--white">k</span>
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">60</figure>
+                                <span class="g-font-size-40--xs g-color--white"></span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Linhas de Código</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">Texto</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
                         <div class="g-text-center--xs">
-                            <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">87.600</figure>
+                            <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">60</figure>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Horas Trabalhadas</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">Texto</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--sm">
                         <div class="g-text-center--xs">
-                            <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">5</figure>
+                            <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">60</figure>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Novos Projetos em Andamento</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">Texto</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs">
                         <div class="g-text-center--xs">
                             <div class="g-margin-b-10--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">6</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">60</figure>
                                 <span class="g-font-size-40--xs g-color--white"></span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Melhores Plataformas</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">Texto</h4>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>-->
+        </div>
         <!-- End Counter -->
 
-        <!-- Feedback Form 
+        <!-- About -->
+        <div id="js__scroll-to-section" class="container g-padding-y-80--xs g-padding-y-125--sm g-margin-b-25--xs">
+                    <div class="row g-hor-centered-row--md">
+                        <div class="col-md-8 g-hor-centered-row__col g-margin-b-60--xs g-margin-b-0--md">
+                            <div class="g-width-100-percent--xs g-width-400--md g-margin-b-40--xs">
+                                <h2 class="g-font-size-32--xs g-font-size-36--md g-font-family--playfair g-margin-b-20--xs">Juliana Ribeiro Alves</h2>
+                                <p class="g-font-size-16--sm">Bio Inicial.</p>
+                                <p class="g-font-size-16--sm">Bio Conclusão.</p>
+                            </div>
+                            <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".5s">
+                                <div class="g-position--overlay g-text-left--xs g-text-right--md g-margin-t-o-50--lg">
+                                    <span class="g-font-size-60--xs g-font-size-80--sm g-font-size-105--lg g-font-family--playfair g-color--primary g-line-height--xs">10</span>
+                                    <span class="text-uppercase g-display-block--xs g-font-size-34--xs g-font-size-40--sm g-font-size-50--lg g-font-weight--700 g-font-family--playfair g-color--primary g-line-height--xs">Anos</span>
+                                    <p class="g-font-size-18--xs g-font-size-20--lg">de Experiência</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-6 col-xs-offset-3 g-full-width--xs g-full-width-offset-0--xs g-hor-centered-row__col">
+                            <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".1s">
+                                <img class="img-responsive" src="img/perfil.jpg" alt="Image">
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <!-- End About -->
+
+        <!-- Feedback Form -->
         <div class="g-bg-color--sky-light">
             <div class="container g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="g-text-center--xs g-margin-b-80--xs">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Sugestões e Observações</p>
+                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Entre em Contato</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md"></h2>
                 </div>
                 <form>
@@ -607,7 +614,7 @@
                     </div>
                 </form>
             </div>
-        </div>-->
+        </div>
         <!-- End Feedback Form -->
 
         <!-- Google Map 
