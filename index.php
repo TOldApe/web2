@@ -72,14 +72,14 @@
                 <ul class="list-inline s-header__action s-header__action--rb">
                     <li class="s-header__action-item">
                         <a class="s-header__action-link" href="https://www.jralves.com.br">
-                            <i class="g-padding-r-5--xs g-color--white ti-facebook"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Facebook</span>
+                            <img class="g-padding-y-20--sm g-padding-r-5--xs g-color--white" src="img/whatsapp_symbol_white.png" alt="Whatsapp">
+                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Whatsapp</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
                         <a class="s-header__action-link" href="https://www.jralves.com.br">
-                            <img class="g-padding-r-5--xs g-color--white" src="img/whatsapp_symbol_white.png" alt="Whatsapp">
-                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Whatsapp</span>
+                            <i class="g-padding-r-5--xs g-color--white ti-facebook"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm g-color--white">Facebook</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
@@ -112,7 +112,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-24--sm g-font-size-42--md g-color--white"><br>ASSESSORIA JURIDICA<br>NO PROCESSO DE<br>INTERNACIONALIZAÇÃO<br></h1>
+                                <h1 class="g-font-size-26--xs g-font-size-42--sm g-font-size-42--md g-color--white"><br>ASSESSORIA JURIDICA<br>NO PROCESSO DE<br>INTERNACIONALIZAÇÃO<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -398,28 +398,28 @@
                         <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
                             <div class="g-padding-x-20--xs g-padding-x-50--lg">
                                 <div class="g-margin-b-40--xs">
-                                   <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>"Pare de contar fãs, seguidores e assinantes como tampas de garrafa. Ao invés disso, pense sobre o que você espera conseguir e como a comunidade realmente se importa sobre o que você está fazendo."</i></p>
+                                   <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>"Pensar a organização globalmente significa não somente ter clientes internacionais, ou agir em outros países, mas também usufruir de disponibilidades ou conceitos do comércio e mercado mundial"</i></p>
                                 </div>
                                 <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs">Âmbar Naslund</h4>
+                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"></h4>
                             </div>
                         </div>
                         <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
                             <div class="g-padding-x-20--xs g-padding-x-50--lg">
                                 <div class="g-margin-b-40--xs">
-                                        <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>“A melhor maneira de prever o futuro é criá-lo.”</i></p>
+                                        <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>“O comércio une o mundo em uma irmandade comum de dependência mútua e de interesses recíprocos”</i></p>
                                 </div>
                                 <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs">Peter Drucker</h4>
+                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"></h4>
                             </div>
                         </div>
                         <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
                             <div class="g-padding-x-20--xs g-padding-x-50--lg">
                                 <div class="g-margin-b-40--xs">
-                                    <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>“Qualquer atividade torna-se criativa e prazerosa quando quem a pratica se interessa por fazê-la bem feita, ou até melhor.”</i></p>
+                                    <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>“A única maneira pela qual uma paz duradoura pode ser criada é pela restauração mundial da atividade econômica e do comércio internacional”</i></p>
                                 </div>
                                 <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs">John Updike</h4>
+                                <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"></h4>
                             </div>
                         </div>
                     </div> 
