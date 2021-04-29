@@ -112,7 +112,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-26--xs g-font-size-42--sm g-font-size-42--md g-color--white"><br>ASSESSORIA JURIDICA<br>NO PROCESSO DE<br>INTERNACIONALIZAÇÃO<br></h1>
+                                <h1 class="g-font-size-26--xs g-font-size-42--sm g-font-size-42--md g-color--white"><br>Assessoria jurídica<br>em todo o processo de <br>internacionalização<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -124,7 +124,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
+                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>Mitigação<br>de riscos e custos<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -136,19 +136,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
-                            </div>
-                            <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/jra03.jpg');">
-                    <div class="container g-text-center--xs g-ver-center--xs">
-                        <div class="g-margin-b-30--xs">
-                            <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>MITIGAÇÃO<br>DE RISCOS E CUSTOS<br></h1>
+                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>Soluções customizadas<br>atendimento ágil e humanizado<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
