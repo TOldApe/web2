@@ -25,7 +25,7 @@
 
         <!-- Theme Styles -->
         <link href="css/style.css?v=06" rel="stylesheet" type="text/css"/>
-        <link href="css/global/global.css?v=04" rel="stylesheet" type="text/css"/>
+        <link href="css/global/global.css?v=05" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
@@ -101,7 +101,7 @@
                 <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/jra03.jpg');">
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
-                            <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white">JULIANA RIBEIRO ALVES<br>ADVOCACIA<br></h1>
+                            <h1 class="g-font-size-30--xs g-font-size-36--sm g-font-size-36--md g-color--white">ASSESSORIA JURÍDICA<br>ESPECIALIZADA<br></h1>
                         </div>
                         <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                              <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -112,7 +112,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-26--xs g-font-size-42--sm g-font-size-42--md g-color--white"><br>Assessoria jurídica<br>em todo o processo de <br>internacionalização<br></h1>
+                                <h1 class="g-font-size-30--xs g-font-size-36--sm g-font-size-36--md g-color--white"><br>OPERAÇÕES MAIS CÉLERES<br>E LUCRATIVAS<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -124,7 +124,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>Mitigação<br>de riscos e custos<br></h1>
+                                <h1 class="g-font-size-30--xs g-font-size-36--sm g-font-size-36-md g-color--white"><br>MITIGAÇÃO DE RISCOS<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -136,7 +136,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-42--md g-color--white"><br>Soluções customizadas<br>atendimento ágil e humanizado<br></h1>
+                                <h1 class="g-font-size-30--xs g-font-size-36--sm g-font-size-36--md g-color--white"><br>ATENDIMENTO<br>ÁGIL E HUMANIZADO<br></h1>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=iG9CE55wbtY&list=PL70DEC2B0568B5469" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>-->
@@ -166,13 +166,16 @@
         <!--========== PAGE CONTENT ==========-->
         <!-- Features -->
         <div id="js__scroll-to-section" class="container g-padding-y-80--xs g-padding-y-125--sm">
-            <div class="g-text-center--xs g-margin-b-100--xs">
-                <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Bem Vindo a Juliana Ribeiro Alves Advocacia</p>
-                <h2 class="g-font-size-32--xs g-font-size-36--md">CONHEÇA AS VANTAGENS DOS NOSSOS SERVIÇOS<br></h2>
+
+            <div class="g-text-center--xs g-margin-b-50--xs">
+                <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs"></p>
+                <h2 class="g-font-size-32--xs g-font-size-36--md">ÁREAS DE ATUAÇÃO<br></h2>
             </div>
+            
+            <div class="g-container--md">
             <div class="row g-margin-b-60--xs g-margin-b-70--md">
 
-                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
+                <div class="col-sm-6 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
@@ -180,25 +183,40 @@
                             </div>
                         </div>
                         <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="align=center g-font-size-18--xs" align="justify">Direito Aduaneiro</h3>
-                                <p class="g-margin-b-0--xs" align="justify">texto a ser inserido.</p>
+                                <h3 class="align=center g-color--darker g-font-size-18--xs" align="justify">Direito Aduaneiro</h3>
+                                <p class="g-margin-b-0--xs" >Nosso escritório tem por escopo assessorar juridicamente empresas atuantes no comércio exterior, tanto no consultivo, como contencioso administrativo e judicial. Nossos serviços englobam:</p>
+                                <p class="g-margin-b-0--xs" >- Identificação do regime aduaneiro especial mais adequado para redução ou isenção de impostos.</p>
+                                <p class="g-margin-b-0--xs" >- Ex - tarifários (novos pleitos/renovação).</p>
+                                <p class="g-margin-b-0--xs" >- Análise e intepretação das legislações nacionais e internacionais.</p>
+                                <p class="g-margin-b-0--xs" >- Classificação Fiscal de Mercadorias (NCM).</p>
+                                <p class="g-margin-b-0--xs" >- Habilitação no RADAR e revisão de estimativa.</p>                                
+                                <p class="g-margin-b-0--xs" >- Importação por conta e ordem de terceiro e sob encomenda (trading company e comercial importadora/exportadora).</p>
+                                <p class="g-margin-b-0--xs" >- Canal cinza, procedimento especial de fiscalização aduaneira, inaptidão de CNPJ, pena de perdimento de mercadorias.</p>
+                                <p class="g-margin-b-0--xs" >- Valoração aduaneira.</p>
+                                <p class="g-margin-b-0--xs" >- Regras de Origem.</p>
+                                <p class="g-margin-b-0--xs" >- Atuação perante os órgãos anuentes para cumprimento de procedimentos/exigências.</p>
+                                <p class="g-margin-b-0--xs" >- Liberação de mercadorias.</p>
+                                <p class="g-margin-b-0--xs" >- Defesas administrativas (Autos de Infração).</p>
+                                <p class="g-margin-b-0--xs" >- Elaboração de estratégias processuais e teses aduaneiras e tributárias perante o Judiciário.</p>
                         </div>
                     </div>
                 </div>
+                
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s"> 
-                                <i class="g-font-size-28--xs g-color--primary ti-star"></i>
+                                <i class="g-font-size-28--xs g-color--primary"></i>
                             </div>
                         </div>
                         <div class="g-media__body g-padding-x-20--xs">
-                                <h3 class="g-font-size-18--xs">Direito Internacional</h3>
-                                <p class="g-margin-b-0--xs" align="justify">Texto a ser inserido.</p>
+                                <h3 class="g-font-size-18--xs"></h3>
+                                <p class="g-margin-b-0--xs" align="justify"></p>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4">
+
+                <div class="col-sm-6 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
@@ -213,7 +231,8 @@
                 </div>
 
             </div>
-
+            </div>
+            
         </div> 
         <!-- End Features -->
 
@@ -555,15 +574,10 @@
                         <div class="col-md-8 g-hor-centered-row__col g-margin-b-60--xs g-margin-b-0--md">
                             <div class="g-width-100-percent--xs g-width-400--md g-margin-b-40--xs">
                                 <h2 class="g-font-size-32--xs g-font-size-36--md g-font-family--playfair g-margin-b-20--xs">Juliana Ribeiro Alves</h2>
-                                <p class="g-font-size-16--sm">Bio Inicial.</p>
-                                <p class="g-font-size-16--sm">Bio Conclusão.</p>
-                            </div>
-                            <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".5s">
-                                <div class="g-position--overlay g-text-left--xs g-text-right--md g-margin-t-o-50--lg">
-                                    <span class="g-font-size-60--xs g-font-size-80--sm g-font-size-105--lg g-font-family--playfair g-color--primary g-line-height--xs">10</span>
-                                    <span class="text-uppercase g-display-block--xs g-font-size-34--xs g-font-size-40--sm g-font-size-50--lg g-font-weight--700 g-font-family--playfair g-color--primary g-line-height--xs">Anos</span>
-                                    <p class="g-font-size-18--xs g-font-size-20--lg">de Experiência</p>
-                                </div>
+                                <p class="g-font-size-16--sm" align="justify">Trade Compliance Officer pelo Instituto Brasileiro de Comércio Internacional (ICI-BR), especialista em Direito Internacional pela Pontifícia Universidade Católica de São Paulo (PUC-SP), graduada no MBA de Gestão Tributária da Fundação Escola de Comércio Álvares Penteado (FECAP-SP), cursos de extensão em Operações do Comércio Exterior e Direito Comercial Americano pela University of California – San Diego (UCSD).</p>
+                                <p class="g-font-size-16--sm align="justify"">Advogada formada pela Fundação Armando Álvares Penteado (FAAP) e membro efetiva da Comissão Especial de Direito Aduaneiro da Ordem dos Advogados do Brasil  - Seção de São Paulo (OAB-SP).</p>
+                                <p class="g-font-size-16--sm" align="justify">Experiência em comércio internacional, tributação e compliance. Com mais de 15 anos de atuação profissional, trabalhou em escritórios de advocacia especializados em aduaneiro, tributário e empresarial, multinacional no ramo de seguros e órgãos públicos.</p>
+                                <p class="g-font-size-16--sm" align="justify">Idiomas: Português - Inglês - Espanhol.</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-xs-6 col-xs-offset-3 g-full-width--xs g-full-width-offset-0--xs g-hor-centered-row__col">

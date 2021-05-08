@@ -7235,6 +7235,9 @@
   color: #222324 !important;
 }
 
+.g-color--darker {
+  color: #000000 !important;
+}
 .g-color--dark-light {
   color: #242526 !important;
 }
